@@ -1,5 +1,5 @@
 defusedxml==0.4.1
-Django==1.9.5
+Django==2.2.24
 gunicorn==19.4.5
 oauthlib==1.1.1
 PyJWT==1.4.0
